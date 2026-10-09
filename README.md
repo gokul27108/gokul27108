@@ -2,7 +2,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a2a7a,50:2753d6,100:0e8a8c&text=Gokul%20M&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Java%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descSize=20&descAlignY=60&animation=fadeIn)
-<img src="./Gokul.png.png" alt="Gokul M" width="170" style="border-radius:50%;">
+<img src="./[Gokul.png.png](https://drive.google.com/file/d/14cXQtyiSPXYSPyGhHyekRrdaREFB2MQB/view?usp=sharing)" alt="Gokul M" width="170" style="border-radius:50%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2753D6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Gokul+M+%F0%9F%91%8B;Java+Developer+%E2%98%95;MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;I+build+full-stack+apps+from+database+to+screen;Open+to+entry-level+software+roles+%F0%9F%9A%80)](https://github.com/gokul27108)
 
