@@ -6,7 +6,7 @@
 
 <div align="center">
   <img
-    src="https://drive.google.com/uc?export=view&id=14cXQtyiSPXYSPyGhHyekRrdaREFB2MQB"
+    src="https://github.com/gokul27108/gokul27108/blob/main/Gokul%20M.png"
     alt="Gokul M"
     width="190"
   />
