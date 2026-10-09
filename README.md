@@ -5,7 +5,7 @@
 
 <div align="center">
   <img
-    src="[https://raw.githubusercontent.com/gokul27108/gokul27108/main/profile-red.png](https://github.com/gokul27108/gokul27108/blob/main/Gokul%20M.png)"
+    src="https://drive.google.com/file/d/14cXQtyiSPXYSPyGhHyekRrdaREFB2MQB/view?usp=sharing"
     alt="Gokul M"
     width="190"
   />
